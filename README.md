@@ -19,7 +19,7 @@ This project predicts whether a customer will leave a bank using Machine Learnin
 streamlit run app.py
 
 ## 🌐 Live Demo
-[Click Here](YOUR_STREAMLIT_LINK)
+[Click Here](https://bankcustomer-churn-prediction-jcaunei45huffsyxxb6myx.streamlit.app/)
 
 ## 📊 Model Accuracy
 ~85%
