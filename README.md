@@ -1,28 +1,55 @@
-# 💳 Customer Churn Prediction App
+# 📉  Bank Churn Predictio
 
-## 📌 Overview
-This project predicts whether a customer will leave a bank using Machine Learning.
+#  Bank Churn Prediction using Machine Learning
+
+## 📌 Project Overview
+This project predicts whether a customer will leave (churn) a bank or not using machine learning techniques.
+
+Customer retention is critical in banking, and this model helps in identifying customers at risk.
+
 
 ## 🚀 Features
-- Data preprocessing (cleaning, encoding, scaling)
-- Model training using Random Forest
-- Hyperparameter tuning
-- Streamlit web app
+- Predicts customer churn probability
+- Data preprocessing and feature engineering
+- Interactive Streamlit dashboard
+- Business-focused insights
+
 
 ## 🛠 Tech Stack
 - Python
+- Pandas, NumPy
 - Scikit-learn
-- Pandas
+- Matplotlib / Seaborn
 - Streamlit
 
-## ▶️ Run Locally
-streamlit run app.py
 
-## 🌐 Live Demo
+## ⚙️ Model Details
+- Algorithm: Random Forest / Logistic Regression
+- Features: Age, Balance, Geography, Tenure, etc.
+- Data Split: 80-20
+
+
+## 📊 Model Performance
+- Accuracy: **85%**
+- ROC-AUC Score: Strong
+- Good balance between precision & recall
+
+
+## 🖼 Screenshots
+(Add screenshots of UI / graphs)
+
+
+## ▶️ How to Run
+
+streamlit run app.py
 [Click Here](https://bankcustomer-churn-prediction-jcaunei45huffsyxxb6myx.streamlit.app/)
 
-## 📊 Model Accuracy
-~85%
+🌟 Future Improvements
+- Use XGBoost / LightGBM
+- Add customer segmentation
+- Deploy with real-time API
 
-## 👩‍💻 Author
-Gayathiri
+📌 Conclusion
+This project helps businesses reduce customer loss by predicting churn effectively using machine learning.
+
+AUTHOR - GAYATHIRI_PK
