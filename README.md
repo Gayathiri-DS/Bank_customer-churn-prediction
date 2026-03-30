@@ -36,7 +36,11 @@ Customer retention is critical in banking, and this model helps in identifying c
 
 
 ## 🖼 Screenshots
+
+
 HOME PAGE -(result.png , result2.png)
+
+
 OUTPUT PAGE - (result3.png , result4.png)
 
 
