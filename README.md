@@ -42,7 +42,7 @@ Customer retention is critical in banking, and this model helps in identifying c
 ## ▶️ How to Run
 
 streamlit run app.py
-[Click Here](https://bankcustomer-churn-prediction-jcaunei45huffsyxxb6myx.streamlit.app/)
+[Click Here]https://bankcustomer-churn-prediction-hamwudq7sjxfhqjwgdpfex.streamlit.app/
 
 🌟 Future Improvements
 - Use XGBoost / LightGBM
